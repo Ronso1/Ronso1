@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Ronso1
-- 👀 I’m interested in programming
+- 👀 I’m interested in programming, gaming
 - 🌱 I’m currently learning C++, VBA, C# languages
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 Ronso1/Ronso1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
