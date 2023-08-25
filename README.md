@@ -1,6 +1,1 @@
-Road to god of gamedev 😎🔥
-
-<!---
-Ronso1/Ronso1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B0ACF7&width=435&lines=Hello+%F0%9F%91%8B%2C+I'm+Ivan+;Nice+to+meet+you!+%F0%9F%98%8A" alt="Typing SVG" /></a>
