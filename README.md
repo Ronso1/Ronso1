@@ -9,12 +9,12 @@
 
 # 🛠 Skills
 
-**🖥️Software developer**
+**🖥️ Software developer**
 - C#
 - VBA 6.0
 - VB.NET
 - .NET platform
 
-**🎮Game developer**
+**🎮 Game developer**
 - Unity
 - Zenject for Unity 
